@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,yCAA2C;EACvC,KAAM;IACF,KAAK,EAAE,KAAK;IACZ,MAAM,EAAE,QAAQ;;EAEpB,WAAY;IACR,KAAK,EAAE,KAAK",
+"sources": ["../scss/style-496px.scss"],
+"names": [],
+"file": "style-496px.css"
+}
